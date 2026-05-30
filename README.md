@@ -128,7 +128,7 @@ Exemplo de notificação enviada aos usuários quando o sistema identifica condi
 ---
 
 ## 👨‍💻 Desenvolvido por
--
+- Alyson Souto
 -
 -
 -
@@ -137,3 +137,4 @@ Exemplo de notificação enviada aos usuários quando o sistema identifica condi
 ## 🌐 Deploy
 
 GitHub Pages:
+https://alyson-021.github.io/orbital-flood-watch/
